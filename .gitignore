@@ -1,0 +1,16 @@
+# only the page, its two images and the README overview are published
+*
+!.gitignore
+!README.md
+!index.html
+!assets/
+assets/*
+!assets/brand/
+assets/brand/*
+!assets/brand/appstore-icon.jpg
+!assets/crop/
+assets/crop/*
+!assets/crop/hero-remotes.jpg
+!shots/
+shots/*
+!shots/overview.png
